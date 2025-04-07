@@ -1,0 +1,29 @@
+Next, I'll load this CSV file and begin the data cleaning process by:
+
+Checking for missing values.
+
+Identifying duplicates.
+
+Reviewing and standardizing text values.
+
+Converting date formats.
+
+Renaming column headers.
+
+Ensuring correct data types.
+
+
+
+ Clean Results (so far):
+
+No missing values in any column.
+
+No duplicate rows present.
+
+Next, let's:
+
+Standardize the text values (e.g., Gender, No-show, Neighbourhood).
+
+Convert ScheduledDay and AppointmentDay into consistent date format (dd-mm-yyyy).
+
+Rename columns to be clean (e.g., lowercase and underscore-separated).
